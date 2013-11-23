@@ -5,6 +5,9 @@ gem 'rails', '4.0.0'
 
 group :development, :test do
   gem 'sqlite3'
+  gem 'better_errors'
+  gem 'binding_of_caller', :platforms=>[:mri_19, :mri_20, :rbx]
+  gem 'quiet_assets'
 end
 
 group :production do
