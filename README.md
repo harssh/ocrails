@@ -19,6 +19,9 @@ Contributors
     * [GitHub](https://github.com/JGallardo)
     * [Twitter](https://twitter.com/JGallardo2600)  
 
+* Harssh S Shrivastava
+    * [GitHub](https://github.com/harsshhfs)
+    * [Linkedin] (in.linkedin.com/pub/harssh-s-shrivastava/20/a12/b12/)
 
 License
 ============    
