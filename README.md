@@ -21,7 +21,6 @@ Contributors
 
 * Harssh S Shrivastava
     * [GitHub](https://github.com/harsshhfs)
-    * [Linkedin] (in.linkedin.com/pub/harssh-s-shrivastava/20/a12/b12/)
     * [Twitter](https://twitter.com/harssh219) 
 
 License
